@@ -82,13 +82,20 @@ body {
   text-transform: uppercase;
   color: #cacacab9;
   font-weight: normal;
-  font-style: italics;
+  font-style: italics; 
+.mark { 
+  background-color: white;
+  color: black;
+}
 }
 .profile p {
   font-size: 12px;
   color: #ffffff59;
   text-transform: uppercase;
   font-weight: normal;
+.mark { 
+  background-color: white;
+  color: black;
 }
 .card:hover > .profile {
   opacity: 1;
