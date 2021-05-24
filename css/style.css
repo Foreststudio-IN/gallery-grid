@@ -90,7 +90,7 @@ body {
   color: #ffffff59;
   text-transform: uppercase;
   font-weight: normal;
-
+}
 .card:hover > .profile {
   opacity: 1;
 }
