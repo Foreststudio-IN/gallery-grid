@@ -83,24 +83,22 @@ body {
   color: #cacacab9;
   font-weight: normal;
   font-style: italics; 
-.mark { 
-  background-color: white;
-  color: black;
-}
+
 }
 .profile p {
   font-size: 12px;
   color: #ffffff59;
   text-transform: uppercase;
   font-weight: normal;
-.mark { 
-  background-color: white;
-  color: black;
-}
+
 .card:hover > .profile {
   opacity: 1;
 }
-
+  
+.mark .profile h6 .profile p{ 
+  background-color: white;
+  color: black;
+}
 .card:nth-child(1) {
   animation-delay: calc(0.5 * var(--delay));
 }
